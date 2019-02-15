@@ -1,0 +1,9 @@
+[submodule "themes/anatole"]
+	path = themes/anatole
+	url = https://github.com/Ben02/hexo-theme-Anatole.git
+[submodule "themes/apollo"]
+	path = themes/apollo
+	url = https://github.com/pinggod/hexo-theme-apollo.git
+[submodule "themes/journal"]
+	path = themes/journal
+	url = https://github.com/SumiMakito/hexo-theme-Journal.git
